@@ -11,5 +11,5 @@ python main.py
 
 ## requirement
 python=>=3.7  
-pytorch>=2.0
-has beed tested on linux and windows  
+pytorch>=2.0  
+all code has beed tested on linux and windows  
