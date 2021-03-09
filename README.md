@@ -1,10 +1,10 @@
 # ResNet-for-Image-classification-task
 ResNet for image classification task
 
-to config  
+## to config  
 modify config.py
 
-Training and testing  
+## Training and testing  
 ```
 python main.py
 ```
