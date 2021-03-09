@@ -1,7 +1,7 @@
 # ResNet-for-Image-classification-task
 ResNet for image classification task
 
-## to config  
+## To config  
 modify config.py
 
 ## Training and testing  
@@ -9,7 +9,7 @@ modify config.py
 python main.py
 ```
 
-## requirement
+## Requirement
 python=>=3.7  
 pytorch>=2.0  
 all code has beed tested on linux and windows  
