@@ -5,7 +5,6 @@ ResNet for image classification task
 modify config.py
 ```
 vim config.py
-
 ```
 ## Training and testing  
 ```
